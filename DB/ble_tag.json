@@ -1,0 +1,139 @@
+[
+    {
+        "location":"Library",
+        "infor": [
+            {
+                "id": 1,
+                "offset":{
+                    "x": 0.8,
+                    "y": 0.1
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 2,
+                "offset":{
+                    "x": 6.7,
+                    "y": 0.1
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 3,
+                "offset":{
+                    "x": 0.8,
+                    "y": 4.3
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 4,
+                "offset":{
+                    "x": 6.7,
+                    "y": 4.3
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 5,
+                "offset":{
+                    "x": 0.8,
+                    "y": 8.5
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 6,
+                "offset":{
+                    "x": 2.8,
+                    "y": 8.5
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 7,
+                "offset":{
+                    "x": 6.7,
+                    "y": 8.5
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 8,
+                "offset":{
+                    "x": 0.8,
+                    "y": 14
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 9,
+                "offset":{
+                    "x": 2.8,
+                    "y": 14
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 10,
+                "offset":{
+                    "x": 6.7,
+                    "y": 14
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            }
+        ]
+    },
+    {
+        "location":"Class",
+        "infor": [
+            {
+                "id": 1,
+                "offset":{
+                    "x": 0.8,
+                    "y": 0.3
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 2,
+                "offset":{
+                    "x": 6.7,
+                    "y": 0.3
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 3,
+                "offset":{
+                    "x": 0.8,
+                    "y": 10
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            },
+            {
+                "id": 4,
+                "offset":{
+                    "x": 6.7,
+                    "y": 10
+                },
+                "rssi1M": 67,
+                "macAddress": "DB:44"
+            }
+            
+        ]
+    }
+]

@@ -1,0 +1,1372 @@
+
+[
+  {
+    "maSo": 0,
+    "name": "Phòng Nghe Nhìn",
+    "neightbor": {},
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "Library"
+  },
+  {
+    "maSo": 0,
+    "name": "Cửa Phòng Nghe Nhìn",
+    "neightbor": {},
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "Library"
+  },
+  {
+    "maSo": 1,
+    "name": "Phòng Ngồi Trệt",
+    "neightbor": {},
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "Library"
+  },
+  {
+    "maSo": 1,
+    "name": "Cửa Phòng Ngồi Trệt",
+    "neightbor": {},
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "Library"
+  },
+  {
+    "maSo": 2,
+    "name": "Kệ Sách 1",
+    "neightbor": {},
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "Library"
+  },
+  {
+    "maSo": 3,
+    "name": "Kệ Sách 2",
+    "neightbor": {},
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "Library"
+  },
+  {
+    "maSo": 4,
+    "name": "Kệ Sách 3",
+    "neightbor": {},
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "Library"
+  },
+  {
+    "maSo": 5,
+    "name": "Kệ Sách 4",
+    "neightbor": {},
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "Library"
+  },
+  {
+    "maSo": 6,
+    "name": "Kệ Sách 5",
+    "neightbor": {},
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "Library"
+  },
+  {
+    "maSo": 0,
+    "name": "Bàn Giáo Viên",
+    "neightbor": {
+      "3":10,"2":19
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 453,
+      "y": 74
+    },
+    "map": "Class"
+  },
+  {
+    "maSo": 1,
+    "name": "Cửa Ra Vào",
+    "neightbor": {
+      "3":80
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 312,
+      "y": 867
+    },
+    "map": "Class"
+  },
+  {
+    "maSo": 2,
+    "name": "Bảng Trắng",
+    "neightbor": {
+      "3":10,"0":19
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 172,
+      "y": 74
+    },
+    "map": "Class"
+  },
+  {
+    "maSo": 3,
+    "name": "",
+    "neightbor": {
+      "0":10,"2":10,"1":80
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 312,
+      "y": 74
+    },
+    "map": "Class"
+  },
+  {
+    "maSo": 0,
+    "name": "Sảnh",
+    "neightbor": {
+      "1": 130,
+      "2": 70,
+      "12": 55,
+      "13": 180,
+      "30": 140,
+      "31": 222
+    },
+    "keyWord": ["Sanh", "Sảnh"],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 700
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 1,
+    "name": "Cầu Thang 1",
+    "neightbor": {
+      "0": 130,
+      "13": 60,
+      "49": 80,
+      "61": 62,
+      "62": 70,
+      "64": 50,
+      "50": 140
+    },
+    "keyWord": ["Cau", "Cầu", "Thang", "Cau Thang 1"],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 200,
+      "y": 700
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 2,
+    "name": "Cầu Thang 2",
+    "neightbor": {
+      "0": 70,
+      "12": 70,
+      "50": 70,
+      "52": 20,
+      "60": 50,
+      "38": 50
+    },
+    "keyWord": ["Cau", "Cầu", "Thang", "Cau Thang 2"],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 300,
+      "y": 675
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 3,
+    "name": "Cầu Thang 3",
+    "neightbor": {
+      "37": 40
+    },
+    "keyWord": ["Cau", "Cầu", "Thang", "Cau Thang 3"],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 400,
+      "y": 440
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 4,
+    "name": "Cầu Thang 4",
+    "neightbor": {
+      "34": 30,
+      "47": 40
+    },
+    "keyWord": ["Cau", "Cầu", "Thang", "Cau Thang 4"],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 150,
+      "y": 525
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 11,
+    "name": "Thư Viện",
+    "neightbor": {
+      "12": 93,
+      "35": 45
+    },
+    "keyWord": ["Thu", "Vien", "Thư Viện"],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 320,
+      "y": 650
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 12,
+    "name": "Văn Phòng Khoa",
+    "neightbor": {
+      "0": 55,
+      "2": 70,
+      "11": 112
+    },
+    "keyWord": ["Van", "Phòng", "Phong", "Van Phong Khoa"],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 320,
+      "y": 700
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 13,
+    "name": "Không Gian Sáng Chế",
+    "neightbor": {
+      "0": 180,
+      "1": 60,
+      "31": 110
+    },
+    "keyWord": ["Khong", "Gian", "Sang", "Che", "Khong Gian Sang Che"],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 166,
+      "y": 700
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 14,
+    "name": "Trung Tâm Tin Học",
+    "neightbor": {
+      "32": 20,
+      "110": 62
+    },
+    "keyWord": ["Trung", "Tam", "Tin", "Hoc"],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 260,
+      "y": 465
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 15,
+    "name": "Khoa Hệ Thống Thông Tin",
+    "neightbor": {
+      "16": 62,
+      "33": 30
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 465
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 16,
+    "name": "Khoa CÔng Nghệ Phần Mềm",
+    "neightbor": {
+      "15": 62,
+      "17": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 420
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 17,
+    "name": "Khoa Khoa Học Máy Tính",
+    "neightbor": {
+      "16": 62,
+      "18": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 387
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 18,
+    "name": "Khoa Mạng Máy Tính Và Truyền Thông",
+    "neightbor": {
+      "17": 62,
+      "19": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 347
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 19,
+    "name": "Khoa Truyền Thông Đa Phương Tiện",
+    "neightbor": {
+      "18": 62,
+      "20": 62,
+      "107": 170
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 317
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 20,
+    "name": "Khoa Công Nghệ Thông Tin",
+    "neightbor": {
+      "19": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 270
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 21,
+    "name": "Phòng Kỹ Thuật",
+    "neightbor": {
+      "33": 40,
+      "34": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 495
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 60,
+    "name": "Hội Trường Khoa",
+    "neightbor": {
+      "52": 40,
+      "50": 40,
+      "2": 50
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 61,
+    "name": "Phòng Họp 1",
+    "neightbor": {
+      "62": 50,
+      "49": 60,
+      "1": 62,
+      "64": 70
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 62,
+    "name": "Phòng Giáo Viên Thỉnh Giảng",
+    "neightbor": {
+      "49": 20,
+      "61": 50,
+      "1": 70
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 63,
+    "name": "Phòng Họp 2",
+    "neightbor": {
+      "48": 50,
+      "49": 50
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 64,
+    "name": "Văn Phòng Ban Chủ Nhiệm Trường",
+    "neightbor": {
+      "49": 20,
+      "1": 50,
+      "61": 70
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 100,
+    "name": "Văn Phòng Đoàn",
+    "neightbor": {
+      "30": 120,
+      "35": 200
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 645
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 101,
+    "name": "Phòng 101",
+    "neightbor": {
+      "30": 62,
+      "102": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 567
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 102,
+    "name": "Phòng 102",
+    "neightbor": {
+      "101": 62,
+      "103": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 540
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 103,
+    "name": "Phòng 103",
+    "neightbor": {
+      "102": 62,
+      "32": 50
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 495
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 104,
+    "name": "Phòng 104",
+    "neightbor": {
+      "32": 12,
+      "105": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 470
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 105,
+    "name": "Phòng 105",
+    "neightbor": {
+      "104": 62,
+      "106": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 420
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 106,
+    "name": "Phòng 106",
+    "neightbor": {
+      "105": 62,
+      "107": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 385
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 107,
+    "name": "Phòng 107",
+    "neightbor": {
+      "106": 62,
+      "108": 62,
+      "19": 170
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 347
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 108,
+    "name": "Phòng 108",
+    "neightbor": {
+      "107": 62,
+      "109": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 307
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 109,
+    "name": "Phòng 109",
+    "neightbor": {
+      "108": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 270
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 110,
+    "name": "Phòng 110",
+    "neightbor": {
+      "14": 62,
+      "111": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 230,
+      "y": 465
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 111,
+    "name": "Phòng 111",
+    "neightbor": {
+      "110": 62,
+      "33": 42
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 190,
+      "y": 465
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 201,
+    "name": "Phòng 201",
+    "neightbor": {
+      "40": 70,
+      "48": 200
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 202,
+    "name": "Phòng 202",
+    "neightbor": {
+      "42": 40,
+      "43": 120,
+      "203": 62,
+      "51": 160,
+      "206": 150,
+      "208": 170
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 203,
+    "name": "Phòng 203",
+    "neightbor": {
+      "202": 62,
+      "43": 70,
+      "208": 190,
+      "206": 200
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 204,
+    "name": "Phòng 204",
+    "neightbor": {
+      "202": 200,
+      "51": 40,
+      "205": 124
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 205,
+    "name": "Phòng 205",
+    "neightbor": {
+      "204": 124,
+      "207": 20
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 206,
+    "name": "Phòng 206",
+    "neightbor": {
+      "202": 150,
+      "203": 200,
+      "208": 62,
+      "51": 30,
+      "42": 160,
+      "43": 100
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 207,
+    "name": "Phòng 207",
+    "neightbor": {
+      "205": 20
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 208,
+    "name": "Phòng 208",
+    "neightbor": {
+      "203": 190,
+      "202": 170,
+      "44": 40,
+      "206": 62,
+      "42": 180,
+      "43": 70
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 209,
+    "name": "Phòng 209",
+    "neightbor": {
+      "44": 160
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 210,
+    "name": "Phòng 210",
+    "neightbor": {
+      "211": 62,
+      "43": 50
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 211,
+    "name": "Phòng 211",
+    "neightbor": {
+      "212": 62,
+      "210": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 212,
+    "name": "Phòng 212",
+    "neightbor": {
+      "45": 40,
+      "211": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 213,
+    "name": "Phòng 213",
+    "neightbor": {
+      "214": 124,
+      "45": 122
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 214,
+    "name": "Phòng 214",
+    "neightbor": {
+      "213": 124,
+      "215": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 215,
+    "name": "Phòng 215",
+    "neightbor": {
+      "214": 62,
+      "216": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 216,
+    "name": "Phòng 216",
+    "neightbor": {
+      "215": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 217,
+    "name": "Phòng 217",
+    "neightbor": {
+      "46": 20
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 218,
+    "name": "Phòng 218",
+    "neightbor": {
+      "46": 62,
+      "219": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 219,
+    "name": "Phòng 219",
+    "neightbor": {
+      "218": 62,
+      "220": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 220,
+    "name": "Phòng 220",
+    "neightbor": {
+      "219": 62,
+      "221": 32
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 221,
+    "name": "Phòng 221",
+    "neightbor": {
+      "220": 32
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 30,
+    "name": "",
+    "neightbor": {
+      "0": 140,
+      "31": 172,
+      "100": 120,
+      "101": 62,
+      "35": 70
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 610
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 31,
+    "name": "",
+    "neightbor": {
+      "34": 93,
+      "13": 110,
+      "30": 172,
+      "0": 302
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 610
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 32,
+    "name": "",
+    "neightbor": {
+      "14": 20,
+      "103": 50,
+      "104": 12
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 283,
+      "y": 465
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 33,
+    "name": "",
+    "neightbor": {
+      "15": 30,
+      "21": 40,
+      "111": 42
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 465
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 34,
+    "name": "",
+    "neightbor": {
+      "4": 30,
+      "31": 93,
+      "21": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 167,
+      "y": 525
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 35,
+    "name": "",
+    "neightbor": {
+      "11": 45,
+      "36": 80,
+      "30": 70
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 320,
+      "y": 610
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 36,
+    "name": "",
+    "neightbor": {
+      "35": 80,
+      "37": 296
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 370,
+      "y": 610
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 37,
+    "name": "",
+    "neightbor": {
+      "3": 40,
+      "36": 296
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 370,
+      "y": 440
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 38,
+    "name": "",
+    "neightbor": {
+      "30": 70,
+      "2": 50
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 40,
+    "name": "",
+    "neightbor": {
+      "41": 70,
+      "201": 70,
+      "52": 70
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 41,
+    "name": "",
+    "neightbor": {
+      "42": 180,
+      "40": 70
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 42,
+    "name": "",
+    "neightbor": {
+      "202": 40,
+      "41": 180,
+      "43": 140,
+      "51": 180,
+      "208": 180,
+      "206": 160,
+      "44": 200
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 43,
+    "name": "",
+    "neightbor": {
+      "210": 50,
+      "203": 70,
+      "202": 120,
+      "42": 140,
+      "206": 100,
+      "208": 70,
+      "51": 110
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 44,
+    "name": "",
+    "neightbor": {
+      "208": 40,
+      "209": 160,
+      "42": 200
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 45,
+    "name": "",
+    "neightbor": {
+      "213": 122,
+      "46": 70,
+      "212": 40,
+      "47": 80
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 46,
+    "name": "",
+    "neightbor": {
+      "45": 70,
+      "217": 20,
+      "218": 62
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 47,
+    "name": "",
+    "neightbor": {
+      "45": 80,
+      "4": 40,
+      "2005": 80
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 48,
+    "name": "",
+    "neightbor": {
+      "201": 200,
+      "63": 50,
+      "2005": 60
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 49,
+    "name": "",
+    "neightbor": {
+      "63": 50,
+      "62": 20,
+      "61": 60,
+      "1": 80,
+      "64": 20
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 50,
+    "name": "",
+    "neightbor": {
+      "1": 140,
+      "2": 70,
+      "60": 40,
+      "52": 60
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 51,
+    "name": "",
+    "neightbor": {
+      "206": 30,
+      "204": 40,
+      "202": 160,
+      "42": 180,
+      "43": 110
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  },
+  {
+    "maSo": 52,
+    "name": "",
+    "neightbor": {
+      "2": 20,
+      "40": 70,
+      "60": 40,
+      "50": 60
+    },
+    "keyWord": [],
+    "luotTruyCap": 0,
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "map": "School"
+  }
+]
